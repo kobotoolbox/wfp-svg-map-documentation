@@ -64,7 +64,7 @@ You may apply custom styling to the SVG map, e.g. giving certain regions a parti
     1. In the `body::kb:image-customization` column, enter a reference to a _calculate_ question, e.g. `${state_style}`. You [cannot](https://github.com/XLSForm/pyxform/issues/97) enter the JSON style instructions here directly;
 1. Upload your modified XLSForm and redeploy.
 
-## Complex example with repeating group and calculated styling
+## Complex example with repeating group and calculated styling ([download XLSForm](Example XLSForm.xlsx))
 
 This example uses the [US_MAP.svg](https://github.com/kobotoolbox/wfp-svg-map-documentation/blob/master/US_MAP.svg?short_path=ab2ce7a) map file. It contains a repeating group of two questions:
 
